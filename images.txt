@@ -18,5 +18,6 @@ vinlic/kimi-free-api
 vinlic/qwen-free-api
 vvbbnn00/warp-clash-api
 yidadaa/chatgpt-next-web
+liwangsheng/idle-game
 zhayujie/chatgpt-on-wechat
 zklcdc/go-proxy-bingai
