@@ -21,3 +21,4 @@ yidadaa/chatgpt-next-web
 liwangsheng/idle-game
 zhayujie/chatgpt-on-wechat
 zklcdc/go-proxy-bingai
+homeassistant/home-assistant
