@@ -1,6 +1,24 @@
-nginx
+nginx 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+14790897/auto-read
+1panel/maxkb
+amtoaer/bili-sync-rs
+babaohuang/geminiprochat
+d0ckmg/free-gpt4-web-api
+frooodle/s-pdf
+justsong/one-api
+nyanmisaka/jellyfin
+ollama/ollama
+tzahi12345/youtubedl-material
+vinlic/kimi-free-api
+vinlic/qwen-free-api
+vvbbnn00/warp-clash-api
+yidadaa/chatgpt-next-web
+liwangsheng/idle-game
+zhayujie/chatgpt-on-wechat
+zklcdc/go-proxy-bingai
+homeassistant/home-assistant
